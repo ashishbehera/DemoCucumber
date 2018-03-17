@@ -22,5 +22,8 @@ Feature: LoginFeature
       | username | password      |
       | admin    | adminpassword |
       | test     | test          |
+      
+      
+      Test Merge Issue
 
 
