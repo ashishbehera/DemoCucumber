@@ -1,4 +1,4 @@
 package testcase;
 
-public class HelloWorld {
+public class TestDemo {
 }
